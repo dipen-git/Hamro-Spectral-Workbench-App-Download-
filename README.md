@@ -2,24 +2,22 @@
 
 Public downloads, release notes, and user guide for Hamro Spectral Workbench beta.
 
-## Downloads
+## Download
 
-Download the latest beta release here:
+Get the latest release here:
 
 [Latest release](https://github.com/dipen-git/Hamro-Spectral-Workbench-App-Download-/releases/latest)
 
-Release assets may include:
-- Windows installer
-- macOS build
-- User guide PDF
+For macOS, download:
+- `Hamro-Spectral-Workbench-1.2.0-macOS.dmg` for the standard install experience
+- `Hamro-Spectral-Workbench-1.2.0-macOS.app.zip` if you prefer the zipped app bundle
+
+## User guide
+
+The quick-start guide is included in the release assets.
 
 ## Feedback
 
-For bug reports and feature requests, please use the feedback repository:
+Please report bugs and feature requests here:
 
 [HS-Workbench-Feedback](https://github.com/dipen-git/HS-Workbench-Feedback)
-
-## Notes
-
-This repository is for public application downloads and release notes only.  
-Source code is maintained separately.
