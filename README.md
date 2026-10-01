@@ -39,6 +39,21 @@ If this happens:
 3. Scroll to **Security** and click **Open Anyway**.
 4. Confirm by clicking **Open**.
 
+## License
+
+Hamro Spectral Workbench is provided under the
+[Hamro Spectral Workbench Research Use License](LICENSE.txt).
+
+It may be used, studied, modified, and shared solely for non-commercial
+academic or scientific research and education.
+
+Commercial use, including use for the benefit of a commercial entity,
+product, or service, requires separate written permission.
+
+Publications, reports, theses, and presentations using the software must cite
+the software and identify its source repository.
+
+
 You can also Control-click the app in Finder, choose **Open**, then confirm.
 
 Only install the app downloaded from the official Releases page.
