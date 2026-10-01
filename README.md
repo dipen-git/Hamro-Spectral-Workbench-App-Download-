@@ -26,3 +26,19 @@ Please report bugs and feature requests here:
 
 This repository is for public application downloads and release notes only.
 Source code is maintained separately.
+
+
+## macOS warning
+
+This beta is not Apple-notarized, so macOS may show an “unidentified developer” warning.
+
+If this happens:
+
+1. Open the app once, then click **Cancel**.
+2. Open **System Settings → Privacy & Security**.
+3. Scroll to **Security** and click **Open Anyway**.
+4. Confirm by clicking **Open**.
+
+You can also Control-click the app in Finder, choose **Open**, then confirm.
+
+Only install the app downloaded from the official Releases page.
