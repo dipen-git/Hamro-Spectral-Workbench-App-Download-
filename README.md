@@ -11,8 +11,8 @@ Get the latest release here:
 Current release assets may include:
 
 - `Hamro-Spectral-Workbench-1.2.0-Windows.exe` for Windows
-- `Hamro-Spectral-Workbench-1.2.0-macOS.dmg` for the standard macOS install experience
-- `Hamro-Spectral-Workbench-1.2.0-macOS.app.zip` if the DMG does not work on your system
+- `Hamro-Spectral-Workbench-1.3.0-macOS.dmg` for the standard macOS install experience
+- `Hamro-Spectral-Workbench-1.3.0-macOS.app.zip` if the DMG does not work on your system
 
 No Python installation is required. On supported Windows systems, GPU acceleration is detected automatically when a compatible NVIDIA driver is available; otherwise the app runs in CPU mode.
 
